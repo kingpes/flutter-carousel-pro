@@ -11,6 +11,7 @@ class CarouselPro extends StatelessWidget {
       animationDuration: Duration(milliseconds: 1000),
       dotSize: 6.0,
       dotIncreasedColor: Color(0xFFFF335C),
+      dotColor: Colors.black,
       dotBgColor: Colors.transparent,
       dotPosition: DotPosition.bottomCenter,
       dotVerticalPadding: 10.0,
