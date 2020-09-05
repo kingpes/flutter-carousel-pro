@@ -1,9 +1,9 @@
-# flutter_font_awesome
+# flutter_carousel_pro
 
     A Flutter Carousel Slider widget. Support Network and Asset Images. You can modify the UI according your design easily.
 
-## [Demo Video](https://youtu.be/fQNxLqgr8iQ)
-[![Watch the video](https://img.youtube.com/vi/fQNxLqgr8iQ/maxresdefault.jpg)](https://youtu.be/fQNxLqgr8iQ)
+## [Demo Video](https://youtu.be/kHS1T_uphF0)
+[![Watch the video](https://img.youtube.com/vi/kHS1T_uphF0/maxresdefault.jpg)](https://youtu.be/kHS1T_uphF0)
 
 ## Installing
     dependencies:
@@ -27,7 +27,7 @@ SizedBox(
 ),
 ```
 ## Example
-[example.dart](https://youtu.be/fQNxLqgr8iQ)
+[example.dart](https://youtu.be/kHS1T_uphF0)
 
 ### See more
 - [Homepage](https://kingpesdev.firebaseapp.com/)
